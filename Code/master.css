@@ -1,0 +1,39 @@
+body{
+    background: darkkhaki;
+}
+
+h1{
+    color:blueviolet;
+}
+
+li{
+    color: crimson;
+}
+
+p{
+    color: darkblue;
+}
+
+div{
+    background: darkolivegreen;
+    border: darkorange;
+    border-width: thick;
+    border-style: double;
+}
+
+span{
+    background: darkred;
+    color: darkslateblue;
+}
+
+.firstDiv{
+    color: darkslateblue;
+}
+
+.secondDiv{
+    background-color: darkturquoise;
+}
+
+#singledout{
+    color: firebrick;
+}
